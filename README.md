@@ -50,9 +50,6 @@ Categorical variables (tt, ff, ss, sf) indicate how device parameters vary from 
 The output current passes through the transistor channel from the drain to the source. Strongly depends on the input signal and bias conditions through complex nonlinear relationships.
 
 
-Here is an example of documentation that could be included in the README.md file of the GitHub repository:
-
-
 ## Model Architecture
 
 Inspired by the physical I-V characteristics, a multi-layer perceptron (MLP) was selected with:
