@@ -2,6 +2,8 @@
 
 This project aims to build a machine-learning model for predicting a transistor's drain current (Id) based on its parameters and operating conditions.
 
+![Different-types-of-Transistor](https://github.com/areegtarek/Transistor-Current-Prediction-Model/assets/46351336/c2b88dc6-389b-4f33-a87f-dc32696a4d6c)
+
 A transistor's Id depends non-linearly on factors like gate-source voltage (Vgs), drain-source voltage (Vds), temperature, and device dimensions. This work develops a neural network model to learn these complex relationships from simulated transistor data.
 
 The goal is to provide a tool that can estimate Id given new combinations of inputs, without relying on complex physical simulations. The trained model could then be deployed for circuit simulation or transistor-level defect analysis tasks.
